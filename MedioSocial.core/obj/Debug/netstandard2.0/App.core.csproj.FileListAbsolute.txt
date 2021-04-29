@@ -1,0 +1,9 @@
+D:\ITLA\Programacion 2\PracticaFinal\MedioSocial.core\bin\Debug\netstandard2.0\App.core.deps.json
+D:\ITLA\Programacion 2\PracticaFinal\MedioSocial.core\bin\Debug\netstandard2.0\App.core.dll
+D:\ITLA\Programacion 2\PracticaFinal\MedioSocial.core\bin\Debug\netstandard2.0\App.core.pdb
+D:\ITLA\Programacion 2\PracticaFinal\MedioSocial.core\obj\Debug\netstandard2.0\App.core.csprojAssemblyReference.cache
+D:\ITLA\Programacion 2\PracticaFinal\MedioSocial.core\obj\Debug\netstandard2.0\App.core.AssemblyInfoInputs.cache
+D:\ITLA\Programacion 2\PracticaFinal\MedioSocial.core\obj\Debug\netstandard2.0\App.core.AssemblyInfo.cs
+D:\ITLA\Programacion 2\PracticaFinal\MedioSocial.core\obj\Debug\netstandard2.0\App.core.csproj.CoreCompileInputs.cache
+D:\ITLA\Programacion 2\PracticaFinal\MedioSocial.core\obj\Debug\netstandard2.0\App.core.dll
+D:\ITLA\Programacion 2\PracticaFinal\MedioSocial.core\obj\Debug\netstandard2.0\App.core.pdb
